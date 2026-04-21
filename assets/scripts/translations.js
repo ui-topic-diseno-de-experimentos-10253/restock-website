@@ -78,8 +78,8 @@ const translations = {
         julio: "Julio Castro",
         gabriela: "Gabriela Shapiama",
         jahaziel: "Jahaziel Guerra",
-        ario: "Ario Chavez Uribe",
-        ivan: "Ivan Fernando Sanchez Guevara"
+        sergio: "Sergio Julca",
+        piero: "Piero Elescano"
       }
     },
     benefits: {
@@ -282,8 +282,8 @@ const translations = {
         julio: "Julio Castro",
         gabriela: "Gabriela Shapiama",
         jahaziel: "Jahaziel Guerra",
-        ario: "Ario Chavez Uribe",
-        ivan: "Ivan Fernando Sanchez Guevara"
+        sergio: "Sergio Julca",
+        piero: "Piero Elescano"
       },
       
     },
